@@ -5,28 +5,24 @@ Commits and commit message shall follow the standards establish by the [conventi
 
 ## Branches
 Branch naming will follow the same structure for all repositories. The names will contain three sections separated by `/`:
-1. the task type (following conventional commit types)
-2. the issue number including the `#` (e.g.: `#46`)
+1. the issue number including the `#` (e.g.: `#46`)
+2. the task type (following conventional commit types)
 3. a short, hyphenated, title describing the changes (e.g.: `auth-bug`)
 
 Example branch names:
 ```
-feat/#10/task-page-ui
-docs/#35/update-local-dev-docs
-bug/#46/auth-bug 
+#10/feat/task-page-ui
+#35/docs/update-local-dev-docs
+#46/bug/auth-bug 
 ```
 
 ## Pull Requests
 ### Naming
 Pull requests titles should present the same information as the branch names but the structure will be a little different. 
-- Issue number
-  - the issue number will be placed in brackets (e.g.: `[#46]`)
-  - the issue number will be in front of the PR type to easily identify/filter for PR(s) relating to a specific issue
-- PR type
-  - should follow conventional commit standards and be followed by a `:` (e.g.: `feat: some title`)
-- Description
-  - can and should provide more context than the branch's short description
-  - should always begin with a verb in the imperative, present tense (e.g.: "change" not "changed" nor "changes")
+- the issue number will be placed in brackets (e.g.: `[#46]`)
+- the PR type should follow conventional commit standards and be followed by a `:` (e.g.: `feat: some title`)
+- the description can and should provide more context than the branch's short description
+- the description should always begin with a verb in the imperative, present tense (e.g.: "change" not "changed" nor "changes")
 
 Example PR names:
 ```
