@@ -2,7 +2,7 @@
 ## Meeting Details
 - Where: FHS-147A
 - Who: Vincent, Nick
-- When: 2026-MM-DD HH:mm - HH:mm 
+- When: 2:30 - 5:30 
 
 ## Discussion Points
 **From previous meeting:**
