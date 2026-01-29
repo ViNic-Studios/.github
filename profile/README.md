@@ -39,7 +39,11 @@ Shared Roles:
 - Learning audio and visual design to make the app feel polished
 - Finding a client and finding users given that its a type 2 project
 - Learning visual design
-- Learning how to create audio and incorporating it 
+- Learning how to create audio and incorporating it
+
+## Milestones 
+- Milestone 1 : Have a working To-Do list 
+- Milestone 2 : Have our first M.V.P with minimal gameplay (Before April)
 
 ## Legal and social issues.
 - We anticipate no legal or social issues since the app is our original idea and all design elements will be created by us
