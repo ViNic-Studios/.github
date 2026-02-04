@@ -6,25 +6,18 @@
 
 ## Discussion Points
 **From previous meeting:**
--
 
 **From Nick:**
-- 
 
 **From Vincent:**
--
 
 ## Points to ask clients
--
 
 ## Post-Meeting
 **Takeaways:**
--
 
 **Next Step:**
--
 
 **Action Items:**
--
 
 ## Meeting Content
