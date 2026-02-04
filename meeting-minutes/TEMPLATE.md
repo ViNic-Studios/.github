@@ -14,6 +14,9 @@
 **From Vincent:**
 -
 
+## Points to ask clients
+-
+
 ## Post-Meeting
 **Takeaways:**
 -
