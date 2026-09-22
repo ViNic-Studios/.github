@@ -12,7 +12,7 @@
 - 3:30 - 5:00 -> Overflow
   - finish remaining discussions
   - review backlog
-  - priooritize tickets
+  - prioritize tickets
 
 ## Discussion Points
 **From previous meeting:**
